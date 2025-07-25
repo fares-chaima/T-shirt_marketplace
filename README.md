@@ -35,12 +35,7 @@ Créer un espace dynamique où les créateurs et passionnés de mode peuvent **�
 
 ---
 
-## Technologies :
-- Frontend : HTML/CSS/JS ou React/Vue *(à adapter)*
-- Backend : Node.js / Flask / Firebase *(à adapter)*
-- Base de données : Firebase / MongoDB / SQL
 
----
 
 ## Auteur :
 Développé par [fares-chaima](https://github.com/fares-chaima)
