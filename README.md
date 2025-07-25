@@ -31,7 +31,7 @@ Créer un espace dynamique où les créateurs et passionnés de mode peuvent **�
 ---
 
 ## Lien de l'application :
-[Accéder à T-Shirt Market](https://www.fennecpannel.com/fares/) *(modifie ce lien si nécessaire)*
+[Accéder à T-Shirt Market](https://www.fennecpannel.com/fares/) 
 
 ---
 
